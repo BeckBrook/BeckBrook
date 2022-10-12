@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BeckBrook
-- I'm a student in informatics. 
+- Student in CS
 - My secret ? Jamiroquai, Daft Punk and lots of cafeine.
 <!---
 BeckBrook/BeckBrook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
